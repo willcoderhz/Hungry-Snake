@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hungry-Snake/static/css/main.ff52eaeb.css",
+    "main.js": "/Hungry-Snake/static/js/main.9bb969c9.js",
+    "static/js/787.786e9145.chunk.js": "/Hungry-Snake/static/js/787.786e9145.chunk.js",
+    "index.html": "/Hungry-Snake/index.html",
+    "main.ff52eaeb.css.map": "/Hungry-Snake/static/css/main.ff52eaeb.css.map",
+    "main.9bb969c9.js.map": "/Hungry-Snake/static/js/main.9bb969c9.js.map",
+    "787.786e9145.chunk.js.map": "/Hungry-Snake/static/js/787.786e9145.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff52eaeb.css",
+    "static/js/main.9bb969c9.js"
+  ]
+}
